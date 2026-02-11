@@ -8,6 +8,6 @@ public class HealthController {
 
     @GetMapping("/")
     public String check() {
-        return "¡El Bot APECS está vivo y coleando! 🤖✅";
+        return "Tamo en vivo";
     }
 }
